@@ -1,0 +1,20 @@
+Command line invocation:
+    /Applications/Xcode_26.3.app/Contents/Developer/usr/bin/xcodebuild -list -workspace /Users/runner/work/Pomodoro_Timer/Pomodoro_Timer/PomodoroTimer.xcworkspace
+
+Information about workspace "PomodoroTimer":
+    Schemes:
+        Pods-PomodoroTimer
+        Pods-PomodoroTimer_Test
+        PomodoroLiveActivity
+        PomodoroLiveActivity_Test
+        PomodoroShieldConfiguration
+        PomodoroShieldConfiguration_Test
+        PomodoroTimer
+        PomodoroTimer_Test
+        SubscriptionKit
+        SubscriptionKit-SubscriptionKit
+        SVProgressHUD
+        UMAPM
+        UMCommon
+        UMDevice
+

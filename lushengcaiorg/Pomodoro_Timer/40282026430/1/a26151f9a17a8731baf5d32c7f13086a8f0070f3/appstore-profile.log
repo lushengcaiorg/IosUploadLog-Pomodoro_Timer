@@ -1,0 +1,8 @@
+Bundle ID 资源匹配：com.pomodoro.acidifier -> A2HGQ3438U
+证书查询结果：1 个 [ 'DISTRIBUTION' ]
+签名 profile 新建：bundleId=com.pomodoro.acidifier profile=appstore-com.pomodoro.acidifier-20261026064916102 [id=9S8ZM9LGM3] uuid=40d214f3-469d-4695-a11b-d4bb98547e14
+Bundle ID 资源匹配：com.pomodoro.acidifier.liveactivity -> V4AY5FY26C
+签名 profile 新建：bundleId=com.pomodoro.acidifier.liveactivity profile=appstore-com.pomodoro.acidifier.liveactivity-20261026064916612 [id=PHB9JC5BW7] uuid=d4089339-07c4-4294-8314-aa8bfbc71819
+Bundle ID 资源匹配：com.pomodoro.acidifier.shield -> V4C8KWL9H6
+签名 profile 新建：bundleId=com.pomodoro.acidifier.shield profile=appstore-com.pomodoro.acidifier.shield-20261026064917046 [id=9H7595YMLA] uuid=bb936cbb-9ab8-4475-a1bb-ce1448ec5c23
+签名 bundleIds: com.pomodoro.acidifier(appstoreconnect, uuid=40d214f3-469d-4695-a11b-d4bb98547e14), com.pomodoro.acidifier.liveactivity(appstoreconnect, uuid=d4089339-07c4-4294-8314-aa8bfbc71819), com.pomodoro.acidifier.shield(appstoreconnect, uuid=bb936cbb-9ab8-4475-a1bb-ce1448ec5c23)

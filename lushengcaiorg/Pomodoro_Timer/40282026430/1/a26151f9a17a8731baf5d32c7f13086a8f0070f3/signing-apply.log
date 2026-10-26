@@ -1,0 +1,8 @@
+已更新 TargetAttributes 手动签名 target=3
+已更新签名配置：com.pomodoro.acidifier.liveactivity(2), com.pomodoro.acidifier.shield(2), com.pomodoro.acidifier(2)；手动签名 target=3；项目级清理=0；xcconfig=0
+手动签名校验通过：
+target=PomodoroTimer config=Debug bundleId=com.pomodoro.acidifier profileUuid=40d214f3-469d-4695-a11b-d4bb98547e14 profileName=appstore-com.pomodoro.acidifier-20261026064916102 team=C6FCVAR45U identity=Apple Distribution: shengcai lu (C6FCVAR45U)
+target=PomodoroTimer config=Release bundleId=com.pomodoro.acidifier profileUuid=40d214f3-469d-4695-a11b-d4bb98547e14 profileName=appstore-com.pomodoro.acidifier-20261026064916102 team=C6FCVAR45U identity=Apple Distribution: shengcai lu (C6FCVAR45U)
+target=PomodoroLiveActivity config=Debug bundleId=com.pomodoro.acidifier.liveactivity profileUuid=d4089339-07c4-4294-8314-aa8bfbc71819 profileName=appstore-com.pomodoro.acidifier.liveactivity-20261026064916612 team=C6FCVAR45U identity=Apple Distribution: shengcai lu (C6FCVAR45U)
+target=PomodoroLiveActivity config=Release bundleId=com.pomodoro.acidifier.liveactivity profileUuid=d4089339-07c4-4294-8314-aa8bfbc71819 profileName=appstore-com.pomodoro.acidifier.liveactivity-20261026064916612 team=C6FCVAR45U identity=Apple Distribution: shengcai lu (C6FCVAR45U)
+target=PomodoroShieldConfiguration config=Release bundleId=com.pomodoro.acidifier.shield profileUuid=bb936cbb-9ab8-4475-a1bb-ce1448ec5c23 profileName=appstore-com.pomodoro.acidifier.shield-20261026064917046 team=C6FCVAR45U identity=Apple Distribution: shengcai lu (C6FCVAR45U)

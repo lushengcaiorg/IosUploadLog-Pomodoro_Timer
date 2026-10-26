@@ -1,0 +1,1 @@
+/Users/runner/work/Pomodoro_Timer/Pomodoro_Timer/PomodoroTimer.xcodeproj: error: Provisioning profile "appstore-com.pomodoro.acidifier-20261026064916102" doesn't include the com.apple.developer.family-controls, com.apple.developer.healthkit, and com.apple.developer.healthkit.access entitlements. (in target 'PomodoroTimer' from project 'PomodoroTimer')
